@@ -81,4 +81,9 @@ public abstract class Informatica { // Superclasse das classes Medicamento e Cos
 		System.out.println("Lista de Produtos: " + this.listaProdutos);
 		System.out.println("Preço: " + this.preco);
 	}
+
+	public static int getNumero() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

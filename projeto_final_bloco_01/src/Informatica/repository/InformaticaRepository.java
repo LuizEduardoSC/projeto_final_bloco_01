@@ -4,7 +4,7 @@ public interface InformaticaRepository {
 
 	//CRUD
 	
-			public void criarProduto( );
+			public void cadastrarProduto( );
 			public void listarTodosOsProdutos();
 			public void consultarProdutoPorId(int id);
 			public void atualizarProduto();
